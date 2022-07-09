@@ -3,9 +3,6 @@ package course_registration_app;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.Connection;
-
-//import Services.SignInManager;
-
 import java.util.Scanner;
 
 import utils.ConnectionUtil;
